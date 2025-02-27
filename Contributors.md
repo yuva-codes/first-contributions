@@ -30,6 +30,7 @@
 - [Amruta Suresh Monde](https://github.com/Amruta241197) I look forward to contribute in open source projects.
 - [Harsh Surendran](https://github.com/HarshSurendran) Hey!
 - [Mursaleen Nisar](https://github.com/mursaleen-nisar) I'm a professional full stack web developer and an experienced freelancer and this is my first open source contribution.
+- [Yuvaraj Elumalai](https://github.com/yuva-codes) Thanks for this! I'll get back here after sometime :)
 - [Vedant Ere] (https://github.com/vedant-ere) First of many 
 - [Aniket Verma] (https://github.com/Aniket7545) Hi, this is my first open source contribution.
 - [Kourosh Altafi](https://github.com/kouroshai) Hello Everybody, First from IRAN, 2025
